@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo echo 'betty'
+sudo whoami
