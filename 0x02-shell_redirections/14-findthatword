@@ -1,2 +1,2 @@
 #!/bin/bash
-~/etc/passwd
+$>head -n 1 file.txt | tail -n + 1
